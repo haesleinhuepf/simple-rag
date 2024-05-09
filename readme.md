@@ -7,6 +7,7 @@ This is work in progress.
 
 ## Installation
 
-´´´
+```
 pip install openai==1.5.0
-´´´
+```
+
